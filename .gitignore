@@ -1,0 +1,23 @@
+# Trading Data - Keep private
+# Uncomment these if you don't want to share raw data
+# *.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude settings (local)
+.claude/
