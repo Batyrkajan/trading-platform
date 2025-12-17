@@ -1,0 +1,22 @@
+# Market Truth Framework - Required Dependencies
+
+# Core Data & Analysis
+pandas>=1.5.0
+numpy>=1.23.0
+scipy>=1.9.0
+
+# API Clients
+requests>=2.28.0
+yfinance>=0.2.28
+python-dotenv>=1.0.0
+
+# Web Scraping (for SEC filings)
+beautifulsoup4>=4.11.0
+lxml>=4.9.0
+
+# Date/Time
+python-dateutil>=2.8.0
+
+# Optional: Better performance
+# pyarrow>=10.0.0  # Fast data processing
+# numba>=0.56.0    # JIT compilation for numeric code
